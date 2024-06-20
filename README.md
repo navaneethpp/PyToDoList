@@ -14,10 +14,3 @@ A simple command-line To-Do List application implemented in Python. Manage your 
 ### Prerequisites
 
 - Python 3.x installed on your system.
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/PyToDoList.git
-   cd PyToDoList
